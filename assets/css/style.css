@@ -1,0 +1,42 @@
+.poster_img{
+  width: 200px;
+  height: 250px;
+  float: left;
+}
+.movie_wrapper{
+  float: left;
+  margin-left: 5%;
+}
+.movie_wrapper h1{
+  color:#473C84;
+}
+.movie_wrapper span{
+color:#843c79;
+font-size: 15px;
+font-weight: bold;
+}
+.carousel-item .row{
+  margin:auto 0;
+}
+.carousel-nav-icon {
+  height: 48px;
+  width: 48px;
+}
+.carousel-item .col, .carousel-item .col-sm, .carousel-item .col-md {
+  margin: 8px;
+  height: 350px;
+  background-size: cover;
+  background-position: center center;
+  border: 2px solid;
+  width: 200px;
+}
+
+.block_list {
+    width: 250px;
+    float: left;
+    border: 1px solid;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+.my_links .btn{float:left; margin-left:10px;}
